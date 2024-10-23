@@ -47,7 +47,7 @@
       support_material_interface_speed: 50
       bridge_speed: 70
       gap_fill_speed: 150
-      ironing_speed: 100
+      ironing_speed: 60
 
       overhang_speed_0: 10
       overhang_speed_1: 20
@@ -82,7 +82,7 @@
       support_material_interface_speed: 90
       bridge_speed: 90
       gap_fill_speed: 400
-      ironing_speed: 150
+      ironing_speed: 75
 
       overhang_speed_0: 15
       overhang_speed_1: 35
@@ -117,7 +117,7 @@
       support_material_interface_speed: 120
       bridge_speed: 125
       gap_fill_speed: 600
-      ironing_speed: 150
+      ironing_speed: 90
 
       overhang_speed_0: 15
       overhang_speed_1: 60
@@ -152,7 +152,7 @@
       support_material_interface_speed: 350
       bridge_speed: 350
       gap_fill_speed: 800
-      ironing_speed: 450
+      ironing_speed: 200
 
       overhang_speed_0: 25
       overhang_speed_1: 75
